@@ -20,7 +20,7 @@ aerogear-push:
       name: Latest
       dir: latest
 aerogear-sync:
-  name: AeroGear push
+  name: AeroGear Sync
   author: Aerogear
   site: main
   site_name: Home
@@ -30,7 +30,7 @@ aerogear-sync:
       name: Latest
       dir: latest
 aerogear-iossdk:
-  name: AeroGear push
+  name: AeroGear iOS SDK
   author: Aerogear
   site: main
   site_name: Home
@@ -40,7 +40,7 @@ aerogear-iossdk:
       name: Latest
       dir: latest
 aerogear-androidsdk:
-  name: AeroGear push
+  name: AeroGear Android SDK
   author: Aerogear
   site: main
   site_name: Home

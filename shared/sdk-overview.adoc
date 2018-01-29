@@ -1,0 +1,9 @@
+= Overview of SDK
+
+The AeroGear SDKs for Android, iOS, and Cordova enable you to write code to use the following services:
+
+* AeroGear Push
+* AeroGear Sync
+* AeroGear Metrics
+* AeroGear Auth
+

@@ -10,53 +10,53 @@ Topics:
   - Name: Architecture
     File: mobile_architecture
   - Name: Installing
-    File: installing
+    File: minishift_install
   - Name: Debugging guide
     File: debugging_guide
 ---
 Name: Using AeroGear Push
-Dir: push
+Dir: Push
 Distros: aerogear-push
 Topics:
-  - Name: Using Push latest
-    File: push-latest
-  - Name: Using Push 1.1
-    File: push1-1
-  - Name: Using Push 1.2
-    File: push1-1
+  - Name: overview
+    File: service-overview
+  - Name: Getting Started with Push
+    File: push-getting-started
+  - Name: Configuring Push
+    File: configuring-push
+  - Name: Using SDKs for Push
+    File: using-push-sdks
 ---    
 Name: Using AeroGear Sync
 Dir: Sync
 Distros: aerogear-sync
 Topics:
-  - Name: Using Sync 1.0
-    File: Sync1-0
-  - Name: Using Sync 1.1
-    File: Sync1-1
-  - Name: Using Sync 1.2
-    File: Sync1-1
+  - Name: overview
+    File: service-overview
+  - Name: Getting Started with Sync
+    File: push-getting-started
+  - Name: Configuring Sync
+    File: configuring-sync
+  - Name: Using SDKs for Sync
+    File: using-sync-sdks
 ---    
 Name: Using AeroGear iOS SDK
 Dir: iOSSDK
 Distros: aerogear-iossdk
 Topics:
-  - Name: Using iOS SDK 1.0
-    File: iOSSDK1-0
-  - Name: Using iOS SDK 1.1
-    File: iOSSDK1-1
-  - Name: Using iOS SDK 1.2
-    File: iOSSDK1-1
+  - Name: overview
+    File: sdk-overview
+  - Name: Compatibility
+    File: compatibility
 ---    
 Name: Using AeroGear Android SDK
 Dir: AndroidSDK
 Distros: aerogear-androidsdk
 Topics:
-  - Name: Using Android SDK 1.0
-    File: AndroidSDK1-0
-  - Name: Using Android SDK 1.1
-    File: AndroidSDK1-1
-  - Name: Using Android SDK 1.2
-    File: AndroidSDK1-1
+  - Name: overview
+    File: service-overview
+  - Name: Compatibility
+    File: compatibility
 ---    
 Name: Using Custom Mobile Services
 Dir: services

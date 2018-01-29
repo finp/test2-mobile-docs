@@ -1,0 +1,8 @@
+== Overview of AeroGear services
+
+An AeroGear service can be accessed using the following SDKs:
+
+* AeroGear Cordova SDK
+* AeroGear iOS SDK
+* AeroGear Android SDK
+

@@ -19,6 +19,9 @@ aerogear-push:
     master:
       name: Latest
       dir: latest
+    pushv1.0:
+      name: v1.0
+      dir: v1.0
 aerogear-sync:
   name: AeroGear Sync
   author: Aerogear

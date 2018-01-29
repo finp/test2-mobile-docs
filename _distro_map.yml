@@ -1,0 +1,51 @@
+---
+aerogear-main:
+  name: aerogear
+  author: Aerogear
+  site: main
+  site_name: Home
+  site_url: http://aerogear.org/
+  branches:
+    master:
+      name: Latest
+      dir: latest
+aerogear-push:
+  name: AeroGear Push
+  author: Aerogear
+  site: main
+  site_name: Home
+  site_url: http://aerogear.org/
+  branches:
+    master:
+      name: Latest
+      dir: latest
+aerogear-sync:
+  name: AeroGear push
+  author: Aerogear
+  site: main
+  site_name: Home
+  site_url: http://aerogear.org/
+  branches:
+    master:
+      name: Latest
+      dir: latest
+aerogear-iossdk:
+  name: AeroGear push
+  author: Aerogear
+  site: main
+  site_name: Home
+  site_url: http://aerogear.org/
+  branches:
+    master:
+      name: Latest
+      dir: latest
+aerogear-androidsdk:
+  name: AeroGear push
+  author: Aerogear
+  site: main
+  site_name: Home
+  site_url: http://aerogear.org/
+  branches:
+    master:
+      name: Latest
+      dir: latest

@@ -18,7 +18,7 @@ Name: Using AeroGear Push
 Dir: Push
 Distros: aerogear-push
 Topics:
-  - Name: overview
+  - Name: Overview
     File: service-overview
   - Name: Getting Started with Push
     File: push-getting-started
@@ -31,7 +31,7 @@ Name: Using AeroGear Sync
 Dir: Sync
 Distros: aerogear-sync
 Topics:
-  - Name: overview
+  - Name: Overview
     File: service-overview
   - Name: Getting Started with Sync
     File: push-getting-started
@@ -44,7 +44,7 @@ Name: Using AeroGear iOS SDK
 Dir: iOSSDK
 Distros: aerogear-iossdk
 Topics:
-  - Name: overview
+  - Name: Overview
     File: sdk-overview
   - Name: Compatibility
     File: compatibility
@@ -53,8 +53,8 @@ Name: Using AeroGear Android SDK
 Dir: AndroidSDK
 Distros: aerogear-androidsdk
 Topics:
-  - Name: overview
-    File: service-overview
+  - Name: Overview
+    File: sdk-overview
   - Name: Compatibility
     File: compatibility
 ---    

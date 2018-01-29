@@ -2,7 +2,10 @@ This SDK is compatibile with:
 
 |===
 Service | Service Version
-|Push | link:..\..\..\[1.0]
-|Sync | link:..\..\..\[1.0], link:..\..\..\[1.1]
+|Push 
+| link:..\..\..\aerogear-push\latest\Push\service-overview.html[latest]
+|Sync 
+| | link:..\..\..\aerogear-sync\latest\Sync\service-overview.html[latest]
+link:..\..\..\[1.0], link:..\..\..\[1.1]
 
 |===
